@@ -1,3 +1,3 @@
 <?php 
-    system('pwd');
+    system('ls');
 ?>
